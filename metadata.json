@@ -1,0 +1,7 @@
+{
+  "name": "WormGPT Passport Pro",
+  "description": "Professional studio-grade passport photo editor with automatic suit swapping and background replacement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
